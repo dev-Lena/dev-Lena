@@ -1,11 +1,11 @@
 
 # Reading List
-* [📄 Study](###Study)
-* [📝 Blog](###Blog)
+* [Study ](#Study)
+* [Blog ](#Blog)
 
 <br><br>
 
-### Study
+## Study
 📄 Study I'm currently participating in 👉🏻 [![Effective Swift](http://img.shields.io/badge/Study-Effective%20Swift-710193?style=flat-square&logo=github&logoColor=white&link=https://github.com/TheSwiftists/effective-swift)](https://github.com/TheSwiftists/effective-swift)
 
 | Writer | Keywords | ⭐️ Recommended Docs ⭐️ |
