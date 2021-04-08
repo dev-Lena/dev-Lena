@@ -47,5 +47,4 @@
 | iOS | [Hit test 사용하기](https://lena-chamna.netlify.app/post/practical_use_of_hit_test/) | 
 | iOS | [Hit-Testing in iOS](https://lena-chamna.netlify.app/post/hit_testing_in_ios/) | 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-lena&label=Profile%20views&color=0e75b6&style=flat" alt="dev-lena" /> </p>
-<br>
+
