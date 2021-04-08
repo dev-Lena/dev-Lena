@@ -1,12 +1,12 @@
 
 # Reading List
-* [📄 Study](#📄-Study )
-* [📝 Blogs posts](#📝-Blogs-posts)
+* [📄 Study](###Study)
+* [📝 Blog](###Blog)
 
 <br><br>
 
-### 📄 Study 
-Study I'm currently participating in 👉🏻 [![Effective Swift](http://img.shields.io/badge/Study-Effective%20Swift-710193?style=flat-square&logo=github&logoColor=white&link=https://github.com/TheSwiftists/effective-swift)](https://github.com/TheSwiftists/effective-swift)
+### Study
+📄 Study I'm currently participating in 👉🏻 [![Effective Swift](http://img.shields.io/badge/Study-Effective%20Swift-710193?style=flat-square&logo=github&logoColor=white&link=https://github.com/TheSwiftists/effective-swift)](https://github.com/TheSwiftists/effective-swift)
 
 | Writer | Keywords | ⭐️ Recommended Docs ⭐️ |
 | :-: | :-: | -------- |
@@ -27,8 +27,8 @@ Study I'm currently participating in 👉🏻 [![Effective Swift](http://img.shi
 <br>
 
 
-### 📝 Blogs posts
-I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://lena-chamna.netlify.app/)](https://lena-chamna.netlify.app/)
+### Blog
+📝 I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://lena-chamna.netlify.app/)](https://lena-chamna.netlify.app/)
 
 | Category | links |
 |:-----:|-------|
