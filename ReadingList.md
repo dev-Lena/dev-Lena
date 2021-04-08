@@ -1,7 +1,7 @@
 
 # Reading List
-* [📄 Study](###📄-Study )
-* [📝 Blogs posts](###📝-Blogs-posts)
+* [📄 Study](#📄-Study )
+* [📝 Blogs posts](#📝-Blogs-posts)
 
 <br><br>
 
