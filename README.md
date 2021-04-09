@@ -30,5 +30,10 @@ I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io
 |[레나참나](https://lena-chamna.netlify.app/) |<span style="font-weight:normal">[iOS 관련 포스트 모아보기](https://lena-chamna.netlify.app/tags/ios/) <br> [Swift 관련 포스트 모아보기](https://lena-chamna.netlify.app/tags/swift/) <br> [Desin Pattern 관련 포스트 모아보기](https://lena-chamna.netlify.app/tags/design-pattern/) <br> [GCD 관련 포스트 모아보기](https://lena-chamna.netlify.app/tags/gcd/) <br> [HTTP 관련 포스트 모아보기](https://lena-chamna.netlify.app/tags/http/) </span>|[Go to see<br> Posts 📃](https://github.com/dev-Lena/dev-Lena/blob/main/ReadingList.md#Blog)|
 | :-: |-------- |-------- |
 
+<br>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-lena&label=Profile%20views&color=0e75b6&style=flat" alt="dev-lena" /> </p>
 <br>
