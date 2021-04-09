@@ -32,6 +32,8 @@ I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io
 
 <br>
 
+### ⚡️ Recent Activity
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
