@@ -35,11 +35,11 @@ I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/back-stage/WeekBack/pull/91) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
-2. 🗣 Commented on [#95](https://github.com/back-stage/WeekBack/issues/95) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
-3. 🗣 Commented on [#97](https://github.com/back-stage/WeekBack/issues/97) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
-4. 💪 Opened PR [#58](https://github.com/SimLeeTag/photo-tag-iOS/pull/58) in [SimLeeTag/photo-tag-iOS](https://github.com/SimLeeTag/photo-tag-iOS)
-5. 🗣 Commented on [#57](https://github.com/SimLeeTag/photo-tag-iOS/issues/57) in [SimLeeTag/photo-tag-iOS](https://github.com/SimLeeTag/photo-tag-iOS)
+1. ❗️ Opened issue [#10](https://github.com/back-stage/WeekBack-Algorithm/issues/10) in [back-stage/WeekBack-Algorithm](https://github.com/back-stage/WeekBack-Algorithm)
+2. 🎉 Merged PR [#91](https://github.com/back-stage/WeekBack/pull/91) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
+3. 🗣 Commented on [#95](https://github.com/back-stage/WeekBack/issues/95) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
+4. 🗣 Commented on [#97](https://github.com/back-stage/WeekBack/issues/97) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
+5. 💪 Opened PR [#58](https://github.com/SimLeeTag/photo-tag-iOS/pull/58) in [SimLeeTag/photo-tag-iOS](https://github.com/SimLeeTag/photo-tag-iOS)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-lena&label=Profile%20views&color=0e75b6&style=flat" alt="dev-lena" /> </p>
