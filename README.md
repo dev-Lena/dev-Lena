@@ -35,11 +35,11 @@ I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/back-stage/WeekBack/issues/102) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
-2. ❗️ Opened issue [#59](https://github.com/SimLeeTag/photo-tag-iOS/issues/59) in [SimLeeTag/photo-tag-iOS](https://github.com/SimLeeTag/photo-tag-iOS)
-3. ❗️ Closed issue [#57](https://github.com/SimLeeTag/photo-tag-iOS/issues/57) in [SimLeeTag/photo-tag-iOS](https://github.com/SimLeeTag/photo-tag-iOS)
-4. 💪 Opened PR [#104](https://github.com/back-stage/WeekBack/pull/104) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
-5. ❗️ Opened issue [#102](https://github.com/back-stage/WeekBack/issues/102) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
+1. 🗣 Commented on [#129](https://github.com/TheSwiftists/effective-swift/issues/129) in [TheSwiftists/effective-swift](https://github.com/TheSwiftists/effective-swift)
+2. 🗣 Commented on [#129](https://github.com/TheSwiftists/effective-swift/issues/129) in [TheSwiftists/effective-swift](https://github.com/TheSwiftists/effective-swift)
+3. 🗣 Commented on [#102](https://github.com/back-stage/WeekBack/issues/102) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
+4. ❗️ Opened issue [#59](https://github.com/SimLeeTag/photo-tag-iOS/issues/59) in [SimLeeTag/photo-tag-iOS](https://github.com/SimLeeTag/photo-tag-iOS)
+5. ❗️ Closed issue [#57](https://github.com/SimLeeTag/photo-tag-iOS/issues/57) in [SimLeeTag/photo-tag-iOS](https://github.com/SimLeeTag/photo-tag-iOS)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-lena&label=Profile%20views&color=0e75b6&style=flat" alt="dev-lena" /> </p>
