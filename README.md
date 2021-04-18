@@ -35,11 +35,11 @@ I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#56](https://github.com/SimLeeTag/photo-tag-iOS/issues/56) in [SimLeeTag/photo-tag-iOS](https://github.com/SimLeeTag/photo-tag-iOS)
-2. 🎉 Merged PR [#58](https://github.com/SimLeeTag/photo-tag-iOS/pull/58) in [SimLeeTag/photo-tag-iOS](https://github.com/SimLeeTag/photo-tag-iOS)
-3. 🗣 Commented on [#100](https://github.com/back-stage/WeekBack/issues/100) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
-4. 🗣 Commented on [#104](https://github.com/back-stage/WeekBack/issues/104) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
-5. 🗣 Commented on [#10](https://github.com/back-stage/WeekBack-Algorithm/issues/10) in [back-stage/WeekBack-Algorithm](https://github.com/back-stage/WeekBack-Algorithm)
+1. 🗣 Commented on [#60](https://github.com/SimLeeTag/photo-tag-iOS/issues/60) in [SimLeeTag/photo-tag-iOS](https://github.com/SimLeeTag/photo-tag-iOS)
+2. ❗️ Closed issue [#60](https://github.com/SimLeeTag/photo-tag-iOS/issues/60) in [SimLeeTag/photo-tag-iOS](https://github.com/SimLeeTag/photo-tag-iOS)
+3. ❗️ Opened issue [#60](https://github.com/SimLeeTag/photo-tag-iOS/issues/60) in [SimLeeTag/photo-tag-iOS](https://github.com/SimLeeTag/photo-tag-iOS)
+4. ❗️ Closed issue [#56](https://github.com/SimLeeTag/photo-tag-iOS/issues/56) in [SimLeeTag/photo-tag-iOS](https://github.com/SimLeeTag/photo-tag-iOS)
+5. 🎉 Merged PR [#58](https://github.com/SimLeeTag/photo-tag-iOS/pull/58) in [SimLeeTag/photo-tag-iOS](https://github.com/SimLeeTag/photo-tag-iOS)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-lena&label=Profile%20views&color=0e75b6&style=flat" alt="dev-lena" /> </p>
