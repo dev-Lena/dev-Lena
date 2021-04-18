@@ -35,11 +35,11 @@ I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/back-stage/WeekBack-Algorithm/issues/10) in [back-stage/WeekBack-Algorithm](https://github.com/back-stage/WeekBack-Algorithm)
-2. 🗣 Commented on [#129](https://github.com/TheSwiftists/effective-swift/issues/129) in [TheSwiftists/effective-swift](https://github.com/TheSwiftists/effective-swift)
-3. 🗣 Commented on [#129](https://github.com/TheSwiftists/effective-swift/issues/129) in [TheSwiftists/effective-swift](https://github.com/TheSwiftists/effective-swift)
-4. 🗣 Commented on [#102](https://github.com/back-stage/WeekBack/issues/102) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
-5. ❗️ Opened issue [#59](https://github.com/SimLeeTag/photo-tag-iOS/issues/59) in [SimLeeTag/photo-tag-iOS](https://github.com/SimLeeTag/photo-tag-iOS)
+1. 🗣 Commented on [#100](https://github.com/back-stage/WeekBack/issues/100) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
+2. 🗣 Commented on [#104](https://github.com/back-stage/WeekBack/issues/104) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
+3. 🗣 Commented on [#10](https://github.com/back-stage/WeekBack-Algorithm/issues/10) in [back-stage/WeekBack-Algorithm](https://github.com/back-stage/WeekBack-Algorithm)
+4. 🗣 Commented on [#129](https://github.com/TheSwiftists/effective-swift/issues/129) in [TheSwiftists/effective-swift](https://github.com/TheSwiftists/effective-swift)
+5. 🗣 Commented on [#129](https://github.com/TheSwiftists/effective-swift/issues/129) in [TheSwiftists/effective-swift](https://github.com/TheSwiftists/effective-swift)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-lena&label=Profile%20views&color=0e75b6&style=flat" alt="dev-lena" /> </p>
