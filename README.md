@@ -35,11 +35,11 @@ I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/back-stage/WeekBack/issues/105) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
-2. 🗣 Commented on [#113](https://github.com/back-stage/WeekBack/issues/113) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
-3. 🗣 Commented on [#11](https://github.com/back-stage/WeekBack-Algorithm/issues/11) in [back-stage/WeekBack-Algorithm](https://github.com/back-stage/WeekBack-Algorithm)
-4. ❗️ Closed issue [#10](https://github.com/back-stage/WeekBack-Algorithm/issues/10) in [back-stage/WeekBack-Algorithm](https://github.com/back-stage/WeekBack-Algorithm)
-5. 💪 Opened PR [#113](https://github.com/back-stage/WeekBack/pull/113) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
+1. 🎉 Merged PR [#113](https://github.com/back-stage/WeekBack/pull/113) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
+2. 🎉 Merged PR [#104](https://github.com/back-stage/WeekBack/pull/104) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
+3. 🗣 Commented on [#105](https://github.com/back-stage/WeekBack/issues/105) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
+4. 🗣 Commented on [#113](https://github.com/back-stage/WeekBack/issues/113) in [back-stage/WeekBack](https://github.com/back-stage/WeekBack)
+5. 🗣 Commented on [#11](https://github.com/back-stage/WeekBack-Algorithm/issues/11) in [back-stage/WeekBack-Algorithm](https://github.com/back-stage/WeekBack-Algorithm)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-lena&label=Profile%20views&color=0e75b6&style=flat" alt="dev-lena" /> </p>
